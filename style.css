@@ -1,0 +1,95 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+body{
+    background-color: rgb(178, 9, 194);
+}
+h1{
+    text-align: center;
+    align-items: center;
+    color: aqua;
+    margin-top: 5rem;
+    font-size: 4rem;
+}
+.container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    padding: 10px;
+    gap: 1rem;
+    color: aqua;
+    margin-top: 5rem;
+}
+.w{
+    background-image: url(w.jpg);
+    height: 7rem;
+    width: 10rem;
+    background-size: cover;
+    color: aqua;
+    font-size: 2rem;
+    border-radius: 2rem;
+}
+.a{
+    background-image: url(a2.jpg);
+    height: 7rem;
+    width: 10rem;
+    background-size: cover;
+    color: aqua;
+    font-size: 2rem;
+    border-radius: 2rem;
+}
+.s{
+    background-image: url(s3.jpeg);
+    height: 7rem;
+    width: 10rem;
+    background-size: cover;
+    color: aqua;
+    font-size: 2rem;
+    border-radius: 2rem;
+}
+.d{
+    background-image: url(d4.webp);
+    height: 7rem;
+    width: 10rem;
+    background-size: cover;
+    color: aqua;
+    font-size: 2rem;
+    border-radius: 2rem;
+}
+.j{
+    background-image: url(j5.jpg);
+    height: 7rem;
+    width: 10rem;
+    background-size: cover;
+    color: aqua;
+    font-size: 2rem;
+    border-radius: 2rem;
+}
+.k{
+    background-image: url(k6.jpg);
+    height: 7rem;
+    width: 10rem;
+    background-size: cover;
+    color: aqua;
+    font-size: 2rem;
+    border-radius: 2rem;
+}
+.l{
+    background-image: url(l7.jpg);
+    height: 7rem;
+    width: 10rem;
+    background-size: cover;
+    color: aqua;
+    font-size: 2rem;
+    border-radius: 2rem;
+}
+p{
+    margin-top: 5rem;
+    text-align: center;
+    align-items: center;
+    color: aqua;
+    font-size: 2rem;
+    border-radius: 2rem;
+}
